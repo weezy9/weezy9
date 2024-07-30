@@ -26,4 +26,14 @@
   <img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </div><br/>
 
+#### Outros Softwares
+
+<div style="display: inline-block"><br/>
+  <img align="center" alt="arduinoide" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img align="center" alt="visualstudiocode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+<img align="center" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"> 
+  <img align="center" alt="photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"> 
+  <img align="center" alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg">
+</div><br/>
+
 Sou estudante de Engenharia de Software na Universidade São Judas Tadeu, dedicada e apaixonada pela tecnologia.

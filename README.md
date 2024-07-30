@@ -1,11 +1,15 @@
-## Olá! Eu sou a Alissa Novais 👋
+## Olá! Eu sou a Alissa Novais 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/alissa-novais-wenceslau-ferreira-b6312025b)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11941343368)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissanovais@gmail.com)
 
-![Alissa GitHub stats](https://github-readme-stats.vercel.app/api?username=weezy9&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weezy9&layout=compact&langs_count-16&theme=dark)
+## Status
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=weezy9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weezy9&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## Tecnologias que tenho conhecimento
 

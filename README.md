@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissanovais@gmail.com)
 
 ![Alissa GitHub stats](https://github-readme-stats.vercel.app/api?username=weezy9&show_icons=true&theme=dark)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weezy9&layout=compact&langs_count-16&theme=dark">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weezy9&layout=compact&langs_count-16&theme=dark)
 
 ## Tecnologias que tenho conhecimento
 

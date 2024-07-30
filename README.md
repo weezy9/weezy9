@@ -4,7 +4,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11941343368)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissanovais@gmail.com)
 
-## Status
+## 📊 Status
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weezy9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

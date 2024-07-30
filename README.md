@@ -1,4 +1,4 @@
-## Olá! Eu sou a Alissa Novais 
+## Olá! Eu sou a Alissa Novais 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/alissa-novais-wenceslau-ferreira-b6312025b)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11941343368)
@@ -11,7 +11,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weezy9&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Tecnologias que tenho conhecimento
+## 👨‍💻 Tecnologias que tenho conhecimento
 
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

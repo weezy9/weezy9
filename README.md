@@ -40,4 +40,4 @@
   <img align="center" alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg">
 </div><br/>
 
-Sou estudante de Engenharia de Software na Universidade São Judas Tadeu, dedicada e apaixonada pela tecnologia.
+Sou estudante de Engenharia de Software, dedicada e apaixonada pela tecnologia.

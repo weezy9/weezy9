@@ -18,10 +18,9 @@
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div><br/>
 
-#### Microsoft Office
+#### Pacote Office
 
 <div style="display: inline-block"><br/>
   <img align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
@@ -34,11 +33,10 @@
 #### Outros Softwares
 
 <div style="display: inline-block"><br/>
-  <img align="center" alt="arduinoide" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img align="center" alt="visualstudiocode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 <img align="center" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"> 
-  <img align="center" alt="photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"> 
-  <img align="center" alt="illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
+  <img align="center" alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </div><br/>
 
 Sou estudante de Engenharia de Software, dedicada e apaixonada pela tecnologia.

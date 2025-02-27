@@ -1,5 +1,7 @@
 ## Olá! Eu sou a Alissa Novais 👋 
 
+<img src="https://readme-typing-svg.demolab.com?font=Readex+Pro&size=30&duration=5500&pause=1000&color=A9A9A9&center=false&vCenter=true&repeat=true&random=false&width=600&lines=Estudante+de+Engenharia+de+Software%21" alt="Typing SVG">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/alissa-novais-wenceslau-ferreira-b6312025b)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11941343368)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissa.nwf@gmail.com)

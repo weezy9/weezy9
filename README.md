@@ -1,4 +1,4 @@
-## Olá! Eu sou a Alissa Novais 👋 
+# Olá! Eu sou a Alissa Novais 👋 
 
 <img src="https://readme-typing-svg.demolab.com?font=Readex+Pro&size=30&duration=5500&pause=1000&color=A9A9A9&center=false&vCenter=true&repeat=true&random=false&width=600&lines=Estudante+de+Engenharia+de+Software%21" alt="Typing SVG">
 
